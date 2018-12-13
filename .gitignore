@@ -15,3 +15,9 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# Go Land config
+.idea
+
+# Visual Studio Code IDE config
+.vscode
